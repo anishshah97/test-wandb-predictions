@@ -14,7 +14,7 @@ steps:
         "beta",
         "run",
         "deploy",
-        "model_api",
+        "model-api",
         "--image",
         "gcr.io/spacydrugner-341318/model_api",
         "--region",
