@@ -30,4 +30,4 @@ steps:
         "WANDB_API_KEY=${_WANDB_API_KEY}",
       ]
 images:
-  - gcr.io/spacydrugner/model_api
+  - gcr.io/spacydrugner-341318/model_api
